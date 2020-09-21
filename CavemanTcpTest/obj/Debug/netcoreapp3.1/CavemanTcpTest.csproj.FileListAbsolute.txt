@@ -1,0 +1,14 @@
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcpTest.exe
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.csprojAssemblyReference.cache
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.AssemblyInfoInputs.cache
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.AssemblyInfo.cs
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcpTest.deps.json
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcpTest.runtimeconfig.json
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcpTest.runtimeconfig.dev.json
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcpTest.dll
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcpTest.pdb
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\bin\Debug\netcoreapp3.1\CavemanTcp.dll
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.csproj.CopyComplete
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.dll
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.pdb
+c:\code\misc\CavemanTcpTest\CavemanTcpTest\obj\Debug\netcoreapp3.1\CavemanTcpTest.genruntimeconfig.cache
